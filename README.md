@@ -29,5 +29,4 @@ Since December 2021, I have been studying web development and everything connect
 &nbsp;<a href="https://www.linkedin.com/in/artem-ivanov-49ba35255/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="artem-ivanov" height="30" width="40" style="max-width: 100%;"></a>
 
 ## Stats
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Arterixs&show_icons=true&theme=transparent" alt="artem's github stats" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arterixs&layout=compact" alt="stast's language" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Arterixs&show_icons=true&theme=transparent" alt="artem's github stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arterixs&layout=compact" alt="stast's language" />
