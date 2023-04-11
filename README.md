@@ -6,8 +6,11 @@
 ## About me
 
 I started learning web development in December 2021 when I joined Rolling Scopes School EPAM.
+
 During my training, I gained experience in creating effective landing pages and SPA applications, as well as the skills of learning and searching for information in a short time.
+
 I also completed training at Clevertes Frontend Lab, during which I gained experience in creating a large React project.
+
 I am currently continuing to learn web development and looking for a position as a frontend developer.
 
 ## Languages and Tools
