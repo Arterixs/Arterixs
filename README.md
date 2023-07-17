@@ -1,6 +1,6 @@
 # Hi, I'm Artem!&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" height="5%">
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** and **Node.js**
 - 💬 Ask me about **anything!**
 
 ## About me
