@@ -5,7 +5,7 @@
 
 ## About me
 
-I started learning web development in December 2021 when I joined Rolling Scopes School EPAM.
+I started learning web development in 2021 when I joined Rolling Scopes School EPAM.
 
 During my training, I gained experience in creating effective landing pages and SPA applications, as well as the skills of learning and searching for information in a short time.
 
