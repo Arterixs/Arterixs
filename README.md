@@ -5,13 +5,13 @@
 
 ## About me
 
-I started learning web development in 2021 when I joined Rolling Scopes School EPAM.
+I've been to web development since 2021.
 
-During my training, I gained experience in creating effective landing pages and SPA applications, as well as the skills of learning and searching for information in a short time.
+The reason why I chose web development is because I like to create  beautiful user-intrefaces. I'm so much passionate about it that I spend almost all my free time on coding and reading differbt articles,webb books and documentation.
 
-I also completed training at Clevertes Frontend Lab, during which I gained experience in creating a large React project.
+I consider myself as a persistent, hard-working and very disciplined person. Also I enjoy to solve complex problems , not afraid of challenges and like to learn new skills.
 
-I am currently continuing to learn web development and looking for a position as a frontend developer.
+I can be a very good match for a frontend developer position in your company.
 
 ## Languages and Tools
 &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
