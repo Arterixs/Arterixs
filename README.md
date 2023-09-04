@@ -5,11 +5,11 @@
 
 ## About me
 
-I've been to web development since 2021.
+I've been into web development since 2021.
 
-The reason why I chose web development is because I like to create  beautiful user-intrefaces. I'm so much passionate about it that I spend almost all my free time on coding and reading differbt articles,webb books and documentation.
+The reason why I chose web development is because I like to create beautiful user-intrefaces. I'm so much passionate about it that I spend almost all my free time on coding and reading different articles,web books and documentation.
 
-I consider myself as a persistent, hard-working and very disciplined person. Also I enjoy to solve complex problems , not afraid of challenges and like to learn new skills.
+I consider myself as a persistent, hard-working and very disciplined person. I also enjoy to solve complex problems. I’m not afraid of challenges and like to learn new skills.
 
 I can be a very good match for a frontend developer position in your company.
 
